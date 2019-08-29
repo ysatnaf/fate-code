@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "fatecode",
+    "packageName": "info.fatecode",
+    "packageFolder": "info/fatecode",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "MTE1NmE0NGEzNWEzODFkMmM3MThkMDBlYTNiMWY0MWJmNTIzNTljNmY4MzM4ZWQ2Mzk0NDJlYTU1OWM3NjY0ZGY2NzBhOWViZWM1MmJiMTc3ODUxNDU3MTgxM2QwMjU0OTRhZjczN2EyMjdjOTliZDdjZGM3NWVjZmJkNTQ5MjA=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ysatnaf",
+  "repository-name": "fate-code"
+}
